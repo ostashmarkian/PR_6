@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{872801F7-BE1B-B3F6-2A7F-8951B4AB27C1}|UnitTest6_1\\UnitTest6_1.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_1\\UnitTest6_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{872801F7-BE1B-B3F6-2A7F-8951B4AB27C1}|UnitTest6_1\\UnitTest6_1.vcxproj|solutionrelative:UnitTest6_1\\UnitTest6_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742D386B-E3D5-4F95-98C0-4E511FEED0BE}|PR_6\\PR_6.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6\\Lab6_1i.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{742D386B-E3D5-4F95-98C0-4E511FEED0BE}|PR_6\\PR_6.vcxproj|solutionrelative:PR_6\\Lab6_1i.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest6_1.cpp",
+              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_1\\UnitTest6_1.cpp",
+              "RelativeDocumentMoniker": "UnitTest6_1\\UnitTest6_1.cpp",
+              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_1\\UnitTest6_1.cpp",
+              "RelativeToolTip": "UnitTest6_1\\UnitTest6_1.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA1wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-26T07:09:15.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab6_1i.cpp",
+              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6\\Lab6_1i.cpp",
+              "RelativeDocumentMoniker": "PR_6\\Lab6_1i.cpp",
+              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6\\Lab6_1i.cpp",
+              "RelativeToolTip": "PR_6\\Lab6_1i.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAzwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-25T14:52:55.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
