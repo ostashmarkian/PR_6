@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F934217-04CC-D7D0-31CF-431E5A1D79E9}|UnitTest6_1r\\UnitTest6_1r.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_1r\\UnitTest6_1r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F934217-04CC-D7D0-31CF-431E5A1D79E9}|UnitTest6_1r\\UnitTest6_1r.vcxproj|solutionrelative:UnitTest6_1r\\UnitTest6_1r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A72A322D-C4FE-4DEB-B73F-CC023E5D69AE}|PR_6_4i\\PR_6_4i.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_4i\\Lab6_4i.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A72A322D-C4FE-4DEB-B73F-CC023E5D69AE}|PR_6_4i\\PR_6_4i.vcxproj|solutionrelative:PR_6_4i\\Lab6_4i.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A08802-99C1-4930-BFB7-752FDB8943AF}|PR_6_3I\\PR_6_3I.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_3I\\Lab6_3i.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44A08802-99C1-4930-BFB7-752FDB8943AF}|PR_6_3I\\PR_6_3I.vcxproj|solutionrelative:PR_6_3I\\Lab6_3i.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433ACF01-F5C5-B426-3D5C-36E61FE3C225}|UnitTest6_2r\\UnitTest6_2r.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_2r\\UnitTest6_2r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{433ACF01-F5C5-B426-3D5C-36E61FE3C225}|UnitTest6_2r\\UnitTest6_2r.vcxproj|solutionrelative:UnitTest6_2r\\UnitTest6_2r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA99125A-E855-47B2-965F-B6AA29A74FDE}|Lab_6_2r.cpp\\Lab_6_2r.cpp.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\Lab_6_2r.cpp\\Lab6_2r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA99125A-E855-47B2-965F-B6AA29A74FDE}|Lab_6_2r.cpp\\Lab_6_2r.cpp.vcxproj|solutionrelative:Lab_6_2r.cpp\\Lab6_2r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2A06A9-1A80-17DC-9967-BA87201A9F9A}|UnitTest6_2I\\UnitTest6_2I.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_2I\\UnitTest6_2I.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F2A06A9-1A80-17DC-9967-BA87201A9F9A}|UnitTest6_2I\\UnitTest6_2I.vcxproj|solutionrelative:UnitTest6_2I\\UnitTest6_2I.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6118D45-C894-4634-980D-889219AB120A}|PR_6_2i\\PR_6_2i.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_2i\\Lab_6_2i.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6118D45-C894-4634-980D-889219AB120A}|PR_6_2i\\PR_6_2i.vcxproj|solutionrelative:PR_6_2i\\Lab_6_2i.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF6CA66B-9F08-438C-94D0-1B5CB007A702}|PR_6_1r\\PR_6_1r.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_1r\\Lab6_1r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FF6CA66B-9F08-438C-94D0-1B5CB007A702}|PR_6_1r\\PR_6_1r.vcxproj|solutionrelative:PR_6_1r\\Lab6_1r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F934217-04CC-D7D0-31CF-431E5A1D79E9}|UnitTest6_1r\\UnitTest6_1r.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_1r\\UnitTest6_1r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F934217-04CC-D7D0-31CF-431E5A1D79E9}|UnitTest6_1r\\UnitTest6_1r.vcxproj|solutionrelative:UnitTest6_1r\\UnitTest6_1r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{742D386B-E3D5-4F95-98C0-4E511FEED0BE}|PR_6\\PR_6.vcxproj|C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6\\Lab6_1i.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,32 +59,104 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest6_1r.cpp",
-              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_1r\\UnitTest6_1r.cpp",
-              "RelativeDocumentMoniker": "UnitTest6_1r\\UnitTest6_1r.cpp",
-              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_1r\\UnitTest6_1r.cpp",
-              "RelativeToolTip": "UnitTest6_1r\\UnitTest6_1r.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAKAAAAAAAAAA==",
+              "Title": "Lab6_4i.cpp",
+              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_4i\\Lab6_4i.cpp",
+              "RelativeDocumentMoniker": "PR_6_4i\\Lab6_4i.cpp",
+              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_4i\\Lab6_4i.cpp",
+              "RelativeToolTip": "PR_6_4i\\Lab6_4i.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-26T07:36:04.138Z",
+              "WhenOpened": "2026-10-27T18:22:46.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Lab6_3i.cpp",
+              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_3I\\Lab6_3i.cpp",
+              "RelativeDocumentMoniker": "PR_6_3I\\Lab6_3i.cpp",
+              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_3I\\Lab6_3i.cpp",
+              "RelativeToolTip": "PR_6_3I\\Lab6_3i.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T18:14:52.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest6_2r.cpp",
+              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_2r\\UnitTest6_2r.cpp",
+              "RelativeDocumentMoniker": "UnitTest6_2r\\UnitTest6_2r.cpp",
+              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_2r\\UnitTest6_2r.cpp",
+              "RelativeToolTip": "UnitTest6_2r\\UnitTest6_2r.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T16:41:23.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab6_2r.cpp",
+              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\Lab_6_2r.cpp\\Lab6_2r.cpp",
+              "RelativeDocumentMoniker": "Lab_6_2r.cpp\\Lab6_2r.cpp",
+              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\Lab_6_2r.cpp\\Lab6_2r.cpp",
+              "RelativeToolTip": "Lab_6_2r.cpp\\Lab6_2r.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T16:40:09.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest6_2I.cpp",
+              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_2I\\UnitTest6_2I.cpp",
+              "RelativeDocumentMoniker": "UnitTest6_2I\\UnitTest6_2I.cpp",
+              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_2I\\UnitTest6_2I.cpp",
+              "RelativeToolTip": "UnitTest6_2I\\UnitTest6_2I.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T16:36:36.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab_6_2i.cpp",
+              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_2i\\Lab_6_2i.cpp",
+              "RelativeDocumentMoniker": "PR_6_2i\\Lab_6_2i.cpp",
+              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_2i\\Lab_6_2i.cpp",
+              "RelativeToolTip": "PR_6_2i\\Lab_6_2i.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-26T08:14:03.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest6_1r.cpp",
+              "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_1r\\UnitTest6_1r.cpp",
+              "RelativeDocumentMoniker": "UnitTest6_1r\\UnitTest6_1r.cpp",
+              "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_1r\\UnitTest6_1r.cpp",
+              "RelativeToolTip": "UnitTest6_1r\\UnitTest6_1r.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-26T07:36:04.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Lab6_1r.cpp",
               "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_1r\\Lab6_1r.cpp",
               "RelativeDocumentMoniker": "PR_6_1r\\Lab6_1r.cpp",
               "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6_1r\\Lab6_1r.cpp",
               "RelativeToolTip": "PR_6_1r\\Lab6_1r.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-26T07:29:31.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T07:29:31.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "UnitTest6_1.cpp",
               "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\UnitTest6_1\\UnitTest6_1.cpp",
               "RelativeDocumentMoniker": "UnitTest6_1\\UnitTest6_1.cpp",
@@ -68,21 +164,19 @@
               "RelativeToolTip": "UnitTest6_1\\UnitTest6_1.cpp",
               "ViewState": "AgIAAAIAAAAAAAAAAAAzwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-26T07:09:15.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T07:09:15.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Lab6_1i.cpp",
               "DocumentMoniker": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6\\Lab6_1i.cpp",
               "RelativeDocumentMoniker": "PR_6\\Lab6_1i.cpp",
               "ToolTip": "C:\\Users\\marki\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Student\\PR_6\\PR_6\\Lab6_1i.cpp",
               "RelativeToolTip": "PR_6\\Lab6_1i.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-25T14:52:55.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-25T14:52:55.369Z"
             }
           ]
         }
